@@ -9,6 +9,7 @@
     "geom:latitude":0.0,
     "geom:longitude":0.0,
     "iso:country":"GT",
+    "mz:hierarchy_label":1,
     "src:geom":"geoplanet",
     "wof:belongsto":[
         102191575,
@@ -32,10 +33,11 @@
         }
     ],
     "wof:id":554858161,
-    "wof:lastmodified":1460101081,
+    "wof:lastmodified":1474576908,
     "wof:name":"03004",
     "wof:parent_id":"421191467",
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-gt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
